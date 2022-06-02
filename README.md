@@ -1,6 +1,6 @@
 # Bst-C
 Binary search tree in C
-Done as comp arch hw
+Done as cs211 comp arch hw at spring 2022
 
 It will receive commands from standard input, and print resposes to those commands to standard output.
 
