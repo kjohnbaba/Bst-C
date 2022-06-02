@@ -184,8 +184,6 @@ void scanner(){
    
   while(fgets(fgetter, 1000, stdin)) {		
       sscanf(fgetter," %c %d", &mode, &number);
-    
-  //  if (scanthingy == EOF){ exit(0);}	     
   
     if(mode == 'i'){
         insert(number);
@@ -205,9 +203,6 @@ if(feof(stdin))
     return scanner();
 }
 int main (int argc, char** argv) {
-    
-    scanner();
-   
-    
-	return 0;
+    scanner();	
+return 0;
 }
