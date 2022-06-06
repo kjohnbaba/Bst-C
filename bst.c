@@ -168,7 +168,6 @@ void insert (int val) {
 	}
 		return;
 }
-
 void scanner(){
      char mode;
     int number;
