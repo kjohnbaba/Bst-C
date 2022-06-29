@@ -193,7 +193,10 @@ if(feof(stdin))
 }
     return scanner();
 }
+
 int main (int argc, char** argv) {
+	
     scanner();	
+	
 return 0;
 }
