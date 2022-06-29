@@ -1,6 +1,6 @@
 # Bst-C
 Binary search tree in C
-Done as Rutgers cs211 computer architecture homework at spring 2022
+Done as Rutgers cs211 Computer Architecture homework at Spring 2022 semester
 
 It will receive commands from standard input, and print resposes to those commands to standard output.
 
